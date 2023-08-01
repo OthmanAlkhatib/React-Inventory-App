@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "asdfasdf",
+      "price": 15,
+      "type": "asdfasdf",
+      "brand": "asdfasdf",
+      "id": 3
+    },
+    {
+      "name": "asd",
+      "price": 10,
+      "type": "asdfg",
+      "brand": "asdfgh",
+      "id": 4
+    },
+    {
+      "name": "othman",
+      "price": 4,
+      "type": "asd",
+      "brand": "asd",
+      "id": 5
+    }
+  ]
+}
